@@ -18,7 +18,7 @@ Keras是一个高层神经网络API，Keras由纯Python编写而成并基Tensorf
 
    该数据集为一个手写数字的图片数据库，每一张图片为0-9中的单个数字。可以用来设计算法和模型进行手写数字的识别，图片如下所示：
 
-   ![avatar](data_description.png)
+   ![avatar](https://github.com/Jacky-Zu/learn-keras/raw/main/data_description.png)
 
 2. 数据描述：
 

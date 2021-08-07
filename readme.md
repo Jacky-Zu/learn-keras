@@ -1,18 +1,12 @@
 ## 简述
 
----
-
 Keras是一个高层神经网络API，Keras由纯Python编写而成并基Tensorflow、Theano以及CNTK后端。Keras 为支持快速实验而生，能够把你的idea迅速转换为结果。
 
 ## 参考资料
 
----
-
 基于[简单的Keras实例](https://www.heywhale.com/mw/project/5e1c14582823a10036b474de/content)、[Keras中文教程](https://keras.io/zh/)和[Tensorflow官方教程](https://www.tensorflow.org/tutorials/keras)
 
 ### 注：关于数据集(dataset.7z)
-
----
 
 1. 背景介绍：
 
@@ -34,7 +28,7 @@ Keras是一个高层神经网络API，Keras由纯Python编写而成并基Tensorf
    其余数据集均为TensorFlow自带，分别为Fashion MNIST（展示不同种衣服的图片）、IMDB数据集（展示影评文字）。
 
 ## 实例说明
----
+
 + **number.ipynb**展示了对手写数字进行识别
 + **cloth_classfication.ipynb**展示了对运动鞋和衬衫等服装图像进行分类
 + **recommend.ipynb**展示了使用评论文本将影评分为积极（positive）或消极（nagetive）两类，即二分类问题
